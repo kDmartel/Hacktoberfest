@@ -1,3 +1,8 @@
+"""
+Problem :
+You have an array of n element.
+How do you find 2 elements from n such as sum of them gives S?
+"""
 import random
 arr = []
 n = int(input("enter no of terms: "))
